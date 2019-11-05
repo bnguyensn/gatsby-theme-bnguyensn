@@ -1,0 +1,9 @@
+- name: Genzaniku
+  type: axe
+  effect: Chance to summon a ghostly Fallen Champion when attacking
+- name: Envious Blade
+  type: dagger
+  effect: Gain 100% Critical Hit Chance against enemies at full health
+- name: Odyn Son
+  type: mace
+  effect: 40% chance to Chain Lightning enemies when you hit them
